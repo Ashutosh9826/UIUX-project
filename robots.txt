@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+# Sitemap location for Search Engine Crawlers
+Sitemap: https://cinevault-imdb.edu.in/sitemap.xml
